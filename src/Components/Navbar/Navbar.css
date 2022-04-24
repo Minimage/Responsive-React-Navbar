@@ -34,7 +34,7 @@ nav {
 }
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 1100px){
 
     .list {
         flex-direction: column;

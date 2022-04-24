@@ -26,7 +26,7 @@ export default function Navbar() {
 
   return (
     <nav>
-      {(toggleMenu || screenWidth > 500) && (
+      {(toggleMenu || screenWidth > 1100) && (
       <ul className="list">
       <li className="items">Home</li>
       <li className="items">Services</li>
